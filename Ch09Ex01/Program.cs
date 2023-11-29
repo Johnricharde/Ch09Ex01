@@ -1,5 +1,8 @@
 ﻿namespace Ch09Ex01
 {
+    /// <summary>
+    /// This class contains my program!
+    /// </summary>
     internal class Program
     {
         public abstract class MyBase {}
